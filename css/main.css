@@ -554,7 +554,7 @@ td, th {
 }
 
 .section-full {
-    padding: 150px 0;
+    padding: 10px 0;
 }
 
 .section-half {
@@ -1639,8 +1639,7 @@ footer .footer-nav li a:hover {
 }
 
 .footer-bottom {
-    padding-top: 40px;
-    border-top: 1px solid #eee;
+    padding-top: 20px;
 }
 
 .footer-bottom .footer-text a:hover {
