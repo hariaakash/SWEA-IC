@@ -1677,11 +1677,17 @@ footer .footer-nav li a:hover {
 
 /* Content */
 
-.content-theme {
-    font-size: 20px;
+.content-theme-1 {
+    font-size: 18px;
     text-indent: 50px;
     text-align: justify;
     line-height: 30px;
+}
+.content-theme-2 {
+    font-size: 16px;
+    text-indent: 50px;
+    text-align: justify;
+    line-height: 20px;
 }
 
 .partial-p {
