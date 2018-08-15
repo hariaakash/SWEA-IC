@@ -1650,24 +1650,40 @@ footer .footer-nav li a:hover {
 /* Custom */
 
 /* Nav */
+
 .container-padding {
     padding: 0px 0px 0px 0px;
     /* margin: 0px 0px 0px 0px; */
 }
+
 .white-header {
     background-color: white;
 }
 
 /* Nav Dropdown */
 
-.dropdown:hover > .dropdown-menu {
+.dropdown:hover>.dropdown-menu {
     display: block;
 }
-.dropdown > .dropdown-toggle:active {
+
+.dropdown>.dropdown-toggle:active {
     /*Without this, clicking will make it sticky*/
     pointer-events: none;
 }
 
 .dropdown-item {
     padding: 0px;
+}
+
+/* Content */
+
+.content-theme {
+    font-size: 20px;
+    text-indent: 50px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.partial-p {
+    padding-top: 100px;
 }
