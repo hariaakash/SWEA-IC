@@ -940,7 +940,7 @@ td, th {
     /* color: rgba(255, 255, 255, 0.5); */
     margin: 0 20px;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 @media (max-width: 991px) {
@@ -1682,6 +1682,7 @@ footer .footer-nav li a:hover {
     text-indent: 50px;
     text-align: justify;
     line-height: 30px;
+    color: black;
 }
 
 .content-theme-2 {
@@ -1689,6 +1690,7 @@ footer .footer-nav li a:hover {
     text-indent: 50px;
     text-align: justify;
     line-height: 20px;
+    color: black;
 }
 
 .partial-p {
