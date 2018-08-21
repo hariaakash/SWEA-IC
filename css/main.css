@@ -1685,6 +1685,10 @@ footer .footer-nav li a:hover {
     color: black;
 }
 
+.anti-content-theme-1 {
+    line-height: 20px;
+}
+
 .content-theme-2 {
     font-size: 16px;
     text-indent: 50px;
@@ -1726,4 +1730,37 @@ footer .footer-nav li a:hover {
 
 .text-black {
     color: #000000 !important;
+}
+
+.yettobe {
+    color: black;
+    text-align: center;
+}
+
+.committee-card {
+    text-align: center;
+    background-color: #232e39;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border: solid black .5px;
+}
+
+.committee-card:hover {
+    background-color: black;
+}
+
+.committee-card p{
+    color: white;
+}
+
+.committee-card h3{
+    color: #028ecb;
+}
+
+.com_names {
+    height: 300px;
+    padding: 3%;
+    line-height: 70px;
+    color: black;
+    font-size: 150%;
 }

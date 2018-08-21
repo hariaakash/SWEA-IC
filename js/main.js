@@ -49,3 +49,16 @@ $(document).ready(function() {
         }
     });
 });
+$('#cp').modal({ show: false})
+
+$(".chiefpatron").on('click',function(event) {
+   //$('#cp').modal('show');
+    /*var text = $(event.target).text();
+    alert(text);
+    var cname = text.split('\n')[0];
+    alert(cname);*/
+    
+});
+$(".patroncard").on('click',function(event) {
+  //  $('#patron').modal('show');
+});
