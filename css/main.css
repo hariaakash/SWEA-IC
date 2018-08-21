@@ -1764,3 +1764,7 @@ footer .footer-nav li a:hover {
     color: black;
     font-size: 150%;
 }
+
+.hfix {
+    height: 100%;
+}
