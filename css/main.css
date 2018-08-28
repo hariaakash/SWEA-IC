@@ -1773,4 +1773,14 @@ footer .footer-nav li a:hover {
     text-align: center;
     border: solid 1px black;
     padding: 3%;
+    margin-bottom: 3%;
+}
+
+.alert_marquee {
+    text-align: center;
+    color: black;
+}
+
+.news_container {
+    text-align: center;
 }
