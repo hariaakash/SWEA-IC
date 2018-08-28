@@ -1768,3 +1768,9 @@ footer .footer-nav li a:hover {
 .hfix {
     height: 100%;
 }
+
+.alerts {
+    text-align: center;
+    border: solid 1px black;
+    padding: 3%;
+}
