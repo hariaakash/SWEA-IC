@@ -1784,3 +1784,15 @@ footer .footer-nav li a:hover {
 .news_container {
     text-align: center;
 }
+
+.download_brochure {
+    border: solid 1px black;
+    padding: 3%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.download_brochure:hover {
+    background: #5f65c9;
+    transition: 2s;
+}
