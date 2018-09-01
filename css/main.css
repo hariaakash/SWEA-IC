@@ -929,6 +929,8 @@ td, th {
     align-items: center;
 }
 
+
+
 @media (max-width: 767px) {
     .default-header nav .main-menu {
         display: none;
@@ -1796,3 +1798,4 @@ footer .footer-nav li a:hover {
     background: #5f65c9;
     transition: 2s;
 }
+
